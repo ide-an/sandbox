@@ -3,10 +3,8 @@
 3. pppp
 
     ```
-    Host 192.168.33.10  # [TODO]
-        IdentityFile ~/.vagrant.d/insecure_private_key
-        User vagrant
-　　```
+    def main():
+        print 'hello'
 
 4. hogehoge
 5. hogehoge
